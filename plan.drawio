@@ -36,8 +36,20 @@
                 <mxCell id="20" value="Character info" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
                     <mxGeometry x="370" y="870" width="320" height="560" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+                <mxCell id="21" value="Log Out" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
                     <mxGeometry x="630" y="800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Character 1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="1005" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="+" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="1005" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Books" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Search" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="960" width="120" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

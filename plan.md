@@ -67,3 +67,7 @@ Login
     step 9: User can add character to 'favourite' catagory
     step 10: share character with other users
     step 11: use tokens to assign 'Admin' permitions
+    step 12: book model with association to charecters
+    step 13: characters can be added to a book
+    step 14: books show what character appear in that book
+    step 15: characters can be found by filtering which books they appear in
